@@ -1,2 +1,3 @@
 conflict file - owner - branch - version 2
 comment - owner - branch - version 2
+Conflict - owner comment - branch - version 2 - line 3
